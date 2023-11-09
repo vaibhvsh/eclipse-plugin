@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Testmenu
+Bundle-SymbolicName: com.plugin.comment.testmenu;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: PLUGIN
+Automatic-Module-Name: com.plugin.comment.testmenu
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: org.eclipse.ui;bundle-version="3.117.0",
+ org.eclipse.ui.editors;bundle-version="3.13.200",
+ org.eclipse.core.resources;bundle-version="3.13.700",
+ org.eclipse.ui.ide;bundle-version="3.17.100",
+ org.eclipse.jface.text;bundle-version="3.16.300",
+ org.eclipse.core.runtime;bundle-version="3.18.0"
