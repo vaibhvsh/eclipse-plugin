@@ -7,7 +7,7 @@
       <category
             id="com.plugin.comment.testmenu.commands.category"
             name="Add comment">
-      </category>
+//      </category>
       <command
             categoryId="com.plugin.comment.testmenu.commands.category"
             name="Add a comment"
