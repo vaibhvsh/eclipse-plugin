@@ -9,7 +9,7 @@
             name="Add comment">
 //      </category>
       <command
-            categoryId="com.plugin.comment.testmenu.commands.category"
+//            categoryId="com.plugin.comment.testmenu.commands.category"
             name="Add a comment"
             id="com.plugin.comment.testmenu.commands.sampleCommand">
       </command>
